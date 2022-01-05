@@ -322,3 +322,7 @@
   // xhr.open("get", "http://dev.pro/user/info");
   // xhr.send();
 }
+
+// console
+{
+}
